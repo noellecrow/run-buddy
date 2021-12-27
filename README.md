@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://noellecrow.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ by Noelle Crow
