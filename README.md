@@ -13,4 +13,4 @@ https://noellecrow.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Noelle Crow
 
-### ©️2019 Run Buddy, Inc.
+### ©️2019 Run Buddy, Inc. try again
