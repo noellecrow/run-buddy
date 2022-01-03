@@ -36,7 +36,6 @@ header {
 
 header h1 {
   font-weight: bold;
-  display: inline;
   margin: 0;
   font-size: 36px;
   color: var(--primary-color);
@@ -555,6 +554,10 @@ section {
 
   .step-text {
     flex: 100%;
+  }
+
+  .trainer-bio h3, .trainer-bio h4 {
+    display: block;
   }
 }
 
